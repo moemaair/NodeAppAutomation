@@ -1,0 +1,15 @@
+{
+  "dependecies": {
+    "express": "*"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "name" : "nodeappautomation",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependecies": {},
+  "author": "Mohamed-ibrahim",
+  "license": "MIT",
+  "description": "NodeJs project with Express Framework and in Docker Container"
+}
